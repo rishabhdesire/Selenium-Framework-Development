@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Loan Department" duration-ms="47" started-at="2020-11-24T18:44:34 IST" finished-at="2020-11-24T18:44:35 IST">
+    <groups>
+    </groups>
+    <test name="Personal Loan" duration-ms="47" started-at="2020-11-24T18:44:34 IST" finished-at="2020-11-24T18:44:35 IST">
+      <class name="Test.Day2">
+        <test-method status="PASS" signature="Ploan()[pri:0, instance:Test.Day2@5ce81285]" name="Ploan" duration-ms="1" started-at="2020-11-24T18:44:35 IST" finished-at="2020-11-24T18:44:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Ploan -->
+      </class> <!-- Test.Day2 -->
+      <class name="Test.Day1">
+        <test-method status="PASS" signature="Demo()[pri:0, instance:Test.Day1@52a86356]" name="Demo" duration-ms="9" started-at="2020-11-24T18:44:35 IST" finished-at="2020-11-24T18:44:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method status="PASS" signature="Demo2()[pri:0, instance:Test.Day1@52a86356]" name="Demo2" duration-ms="1" started-at="2020-11-24T18:44:35 IST" finished-at="2020-11-24T18:44:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo2 -->
+      </class> <!-- Test.Day1 -->
+    </test> <!-- Personal Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
