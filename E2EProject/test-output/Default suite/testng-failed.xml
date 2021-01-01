@@ -5,7 +5,9 @@
     <classes>
       <class name="Framework.HomePage">
         <methods>
-          <include name="basePageNavigation"/>
+          <include name="finilizeTest"/>
+          <include name="basePageNavigation" invocation-numbers="0 1"/>
+          <include name="initilizeDriver"/>
         </methods>
       </class> <!-- Framework.HomePage -->
     </classes>

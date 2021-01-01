@@ -1,0 +1,8 @@
+23:28:17.035 [TestNG] INFO  resources.base - Browser get Launched
+23:28:20.671 [TestNG] INFO  resources.base - Navigated to HomePage
+23:28:21.143 [TestNG] INFO  resources.base - Course Link Webelement is visible
+23:28:21.250 [TestNG] INFO  resources.base - Navigated to HomePage successfully
+23:28:21.404 [TestNG] INFO  resources.base - Navigated to Home Page
+23:28:21.460 [TestNG] INFO  resources.base - Navigated to Login Page
+23:28:21.606 [TestNG] INFO  resources.base - restricteduser
+23:28:21.696 [TestNG] INFO  resources.base - Successfully Validated Course Title Name

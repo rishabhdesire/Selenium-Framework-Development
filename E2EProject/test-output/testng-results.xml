@@ -1,54 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="1" total="1" passed="0">
+<testng-results skipped="0" failed="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2742" started-at="2020-12-29T16:08:11Z" finished-at="2020-12-29T16:08:14Z">
+  <suite name="Suite" duration-ms="16624" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:47Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2742" started-at="2020-12-29T16:08:11Z" finished-at="2020-12-29T16:08:14Z">
-      <class name="Framework.HomePage">
-        <test-method status="FAIL" signature="basePageNavigation()[pri:0, instance:Framework.HomePage@5f375618]" name="basePageNavigation" duration-ms="2721" started-at="2020-12-29T21:38:11Z" finished-at="2020-12-29T21:38:14Z">
-          <exception class="org.openqa.selenium.SessionNotCreatedException">
+    <test name="App Testing" duration-ms="4" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:30Z">
+    </test> <!-- App Testing -->
+    <test name="Course Title testing" duration-ms="14922" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:45Z">
+      <class name="Framework.ValidateCourseTitle">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="initialize" is-config="true" duration-ms="12215" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="FAIL" signature="ValidatePageTitle()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="ValidatePageTitle" duration-ms="140" started-at="2020-12-31T21:34:42Z" finished-at="2020-12-31T21:34:43Z">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Unexpected error launching Internet Explorer. Browser zoom level was set to 150%. It should be set to 100%
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-2PVS3VU', ip: '10.252.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
-Driver info: driver.version: InternetExplorerDriver
-remote stacktrace: ]]>
+              <![CDATA[expected [PracticePage] but found [Practice Page]]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.SessionNotCreatedException: Unexpected error launching Internet Explorer. Browser zoom level was set to 150%. It should be set to 100%
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'DESKTOP-2PVS3VU', ip: '10.252.0.11', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_251'
-Driver info: driver.version: InternetExplorerDriver
-remote stacktrace: 
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
-	at java.lang.reflect.Constructor.newInstance(Unknown Source)
-	at org.openqa.selenium.remote.W3CHandshakeResponse.lambda$errorHandler$0(W3CHandshakeResponse.java:62)
-	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
-	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
-	at java.util.stream.ReferencePipeline$3$1.accept(Unknown Source)
-	at java.util.Spliterators$ArraySpliterator.tryAdvance(Unknown Source)
-	at java.util.stream.ReferencePipeline.forEachWithCancel(Unknown Source)
-	at java.util.stream.AbstractPipeline.copyIntoWithCancel(Unknown Source)
-	at java.util.stream.AbstractPipeline.copyInto(Unknown Source)
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(Unknown Source)
-	at java.util.stream.FindOps$FindOp.evaluateSequential(Unknown Source)
-	at java.util.stream.AbstractPipeline.evaluate(Unknown Source)
-	at java.util.stream.ReferencePipeline.findFirst(Unknown Source)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
-	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:74)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:136)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
-	at org.openqa.selenium.ie.InternetExplorerDriver.run(InternetExplorerDriver.java:221)
-	at org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:213)
-	at org.openqa.selenium.ie.InternetExplorerDriver.<init>(InternetExplorerDriver.java:150)
-	at Framework.base.intializeDriver(base.java:41)
-	at Framework.HomePage.basePageNavigation(HomePage.java:12)
+              <![CDATA[java.lang.AssertionError: expected [PracticePage] but found [Practice Page]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:176)
+	at org.testng.Assert.assertEquals(Assert.java:186)
+	at Framework.ValidateCourseTitle.ValidatePageTitle(ValidateCourseTitle.java:45)
 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -62,24 +39,84 @@ remote stacktrace:
 	at org.testng.TestRunner.privateRun(TestRunner.java:767)
 	at org.testng.TestRunner.run(TestRunner.java:617)
 	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
-	at org.testng.TestNG.run(TestNG.java:1031)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+	at org.testng.SuiteRunner.access$000(SuiteRunner.java:37)
+	at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:368)
+	at org.testng.internal.thread.ThreadUtil$2.call(ThreadUtil.java:64)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.SessionNotCreatedException -->
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatePageTitle -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="teardown" is-config="true" duration-ms="815" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Framework.ValidateCourseTitle -->
+    </test> <!-- Course Title testing -->
+    <test name="Course Navigation testing" duration-ms="16052" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:46Z">
+      <class name="Framework.ValidateCourseNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="initialize" is-config="true" duration-ms="13413" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="ValidateHomeLinkExist()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="ValidateHomeLinkExist" duration-ms="285" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHomeLinkExist -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="teardown" is-config="true" duration-ms="2348" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Framework.ValidateCourseNavigationBar -->
+    </test> <!-- Course Navigation testing -->
+    <test name="Homepage testing" duration-ms="16624" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:47Z">
+      <class name="Framework.HomePage">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.HomePage@68dc098b]" name="initialize" is-config="true" duration-ms="4420" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@68dc098b]" name="basePageNavigation" duration-ms="10596" started-at="2020-12-31T21:34:35Z" data-provider="getData" finished-at="2020-12-31T21:34:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[restricteduser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@68dc098b]" name="basePageNavigation" duration-ms="1455" started-at="2020-12-31T21:34:45Z" data-provider="getData" finished-at="2020-12-31T21:34:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[nonrestricteduser]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.HomePage@68dc098b]" name="teardown" is-config="true" duration-ms="142" started-at="2020-12-31T21:34:47Z" finished-at="2020-12-31T21:34:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
       </class> <!-- Framework.HomePage -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Homepage testing -->
+  </suite> <!-- Suite -->
 </testng-results>
