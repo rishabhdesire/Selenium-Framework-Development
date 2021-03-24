@@ -2,18 +2,34 @@
 <testng-results skipped="0" failed="1" total="4" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="16624" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:47Z">
+  <suite name="Suite" duration-ms="25479" started-at="2021-03-24T12:30:56Z" finished-at="2021-03-24T12:31:22Z">
     <groups>
     </groups>
-    <test name="App Testing" duration-ms="4" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:30Z">
+    <test name="App Testing" duration-ms="12" started-at="2021-03-24T12:30:56Z" finished-at="2021-03-24T12:30:56Z">
     </test> <!-- App Testing -->
-    <test name="Course Title testing" duration-ms="14922" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:45Z">
-      <class name="Framework.ValidateCourseTitle">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="initialize" is-config="true" duration-ms="12215" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:42Z">
+    <test name="Course Navigation testing" duration-ms="22579" started-at="2021-03-24T12:30:56Z" finished-at="2021-03-24T12:31:19Z">
+      <class name="Framework.ValidateCourseNavigationBar">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseNavigationBar@41ab013]" name="initialize" is-config="true" duration-ms="21129" started-at="2021-03-24T18:00:56Z" finished-at="2021-03-24T18:01:18Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="FAIL" signature="ValidatePageTitle()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="ValidatePageTitle" duration-ms="140" started-at="2020-12-31T21:34:42Z" finished-at="2020-12-31T21:34:43Z">
+        <test-method status="PASS" signature="ValidateHomeLinkExist()[pri:0, instance:Framework.ValidateCourseNavigationBar@41ab013]" name="ValidateHomeLinkExist" duration-ms="149" started-at="2021-03-24T18:01:18Z" finished-at="2021-03-24T18:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateHomeLinkExist -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseNavigationBar@41ab013]" name="teardown" is-config="true" duration-ms="1281" started-at="2021-03-24T18:01:18Z" finished-at="2021-03-24T18:01:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Framework.ValidateCourseNavigationBar -->
+    </test> <!-- Course Navigation testing -->
+    <test name="Course Title testing" duration-ms="23534" started-at="2021-03-24T12:30:56Z" finished-at="2021-03-24T12:31:20Z">
+      <class name="Framework.ValidateCourseTitle">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseTitle@71329995]" name="initialize" is-config="true" duration-ms="21724" started-at="2021-03-24T18:00:56Z" finished-at="2021-03-24T18:01:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="FAIL" signature="ValidatePageTitle()[pri:0, instance:Framework.ValidateCourseTitle@71329995]" name="ValidatePageTitle" duration-ms="518" started-at="2021-03-24T18:01:18Z" finished-at="2021-03-24T18:01:19Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [PracticePage] but found [Practice Page]]]>
@@ -52,35 +68,19 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ValidatePageTitle -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseTitle@301eda63]" name="teardown" is-config="true" duration-ms="815" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:45Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseTitle@71329995]" name="teardown" is-config="true" duration-ms="605" started-at="2021-03-24T18:01:19Z" finished-at="2021-03-24T18:01:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- Framework.ValidateCourseTitle -->
     </test> <!-- Course Title testing -->
-    <test name="Course Navigation testing" duration-ms="16052" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:46Z">
-      <class name="Framework.ValidateCourseNavigationBar">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="initialize" is-config="true" duration-ms="13413" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="ValidateHomeLinkExist()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="ValidateHomeLinkExist" duration-ms="285" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:44Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- ValidateHomeLinkExist -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.ValidateCourseNavigationBar@71329995]" name="teardown" is-config="true" duration-ms="2348" started-at="2020-12-31T21:34:44Z" finished-at="2020-12-31T21:34:46Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- Framework.ValidateCourseNavigationBar -->
-    </test> <!-- Course Navigation testing -->
-    <test name="Homepage testing" duration-ms="16624" started-at="2020-12-31T16:04:30Z" finished-at="2020-12-31T16:04:47Z">
+    <test name="Homepage testing" duration-ms="25479" started-at="2021-03-24T12:30:56Z" finished-at="2021-03-24T12:31:22Z">
       <class name="Framework.HomePage">
-        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.HomePage@68dc098b]" name="initialize" is-config="true" duration-ms="4420" started-at="2020-12-31T21:34:30Z" finished-at="2020-12-31T21:34:35Z">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:Framework.HomePage@301eda63]" name="initialize" is-config="true" duration-ms="4729" started-at="2021-03-24T18:00:56Z" finished-at="2021-03-24T18:01:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@68dc098b]" name="basePageNavigation" duration-ms="10596" started-at="2020-12-31T21:34:35Z" data-provider="getData" finished-at="2020-12-31T21:34:45Z">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@301eda63]" name="basePageNavigation" duration-ms="18160" started-at="2021-03-24T18:01:01Z" data-provider="getData" finished-at="2021-03-24T18:01:19Z">
           <params>
             <param index="0">
               <value>
@@ -96,7 +96,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@68dc098b]" name="basePageNavigation" duration-ms="1455" started-at="2020-12-31T21:34:45Z" data-provider="getData" finished-at="2020-12-31T21:34:47Z">
+        <test-method status="PASS" signature="basePageNavigation(java.lang.String, java.lang.String)[pri:0, instance:Framework.HomePage@301eda63]" name="basePageNavigation" duration-ms="2194" started-at="2021-03-24T18:01:19Z" data-provider="getData" finished-at="2021-03-24T18:01:22Z">
           <params>
             <param index="0">
               <value>
@@ -112,7 +112,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- basePageNavigation -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.HomePage@68dc098b]" name="teardown" is-config="true" duration-ms="142" started-at="2020-12-31T21:34:47Z" finished-at="2020-12-31T21:34:47Z">
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Framework.HomePage@301eda63]" name="teardown" is-config="true" duration-ms="376" started-at="2021-03-24T18:01:22Z" finished-at="2021-03-24T18:01:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->

@@ -9,6 +9,11 @@
       	<class name="Framework.AppTest"/>
       </classes>
   </test>
+  <test name="Kite Testing">
+      <classes>
+      	<class name="Framework.Kite"/>
+      </classes>
+  </test>
   <test name ="Homepage testing">
   	<classes>
   		<class name="Framework.HomePage"/>

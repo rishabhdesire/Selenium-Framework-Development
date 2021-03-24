@@ -1,0 +1,8 @@
+18:01:18.613 [TestNG] INFO  resources.base - Navigated to Home Page
+18:01:18.712 [TestNG] INFO  resources.base - Navigated to HomePage successfully
+18:01:19.111 [TestNG] INFO  resources.base - Navigated to Login Page
+18:01:19.390 [TestNG] INFO  resources.base - restricteduser
+18:01:19.495 [TestNG] INFO  resources.base - Browser get closed
+18:01:19.816 [TestNG] INFO  resources.base - Clickedd on Login Button
+18:01:20.451 [TestNG] INFO  resources.base - Browser get closed
+18:01:21.310 [TestNG] INFO  resources.base - Navigated to HomePage successfully

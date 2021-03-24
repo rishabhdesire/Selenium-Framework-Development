@@ -1,1 +1,5 @@
-21:34:47.307 [TestNG] INFO  resources.base - Browser Closed
+18:01:21.442 [TestNG] INFO  resources.base - Navigated to Login Page
+18:01:21.543 [TestNG] INFO  resources.base - nonrestricteduser
+18:01:22.016 [TestNG] INFO  resources.base - Clickedd on Login Button
+18:01:22.396 [TestNG] INFO  resources.base - Browser Closed
+18:01:30.056 [TestNG] INFO  resources.base - Browser get closed

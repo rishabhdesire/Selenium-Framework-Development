@@ -6,13 +6,6 @@
   </listeners>
   <test name="Course Title testing(failed)" parallel="tests">
     <classes>
-      <class name="Framework.ValidateCourseTitle">
-        <methods>
-          <include name="initialize"/>
-          <include name="ValidatePageTitle"/>
-          <include name="teardown"/>
-        </methods>
-      </class> <!-- Framework.ValidateCourseTitle -->
       <class name="Framework.ValidateCourseNavigationBar">
         <methods>
           <include name="teardown"/>
@@ -25,6 +18,19 @@
           <include name="teardown"/>
         </methods>
       </class> <!-- Framework.HomePage -->
+      <class name="Framework.ValidateCourseTitle">
+        <methods>
+          <include name="initialize"/>
+          <include name="ValidatePageTitle"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- Framework.ValidateCourseTitle -->
+      <class name="Framework.Kite">
+        <methods>
+          <include name="teardown"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- Framework.Kite -->
     </classes>
   </test> <!-- Course Title testing(failed) -->
 </suite> <!-- Failed suite [Suite] -->
