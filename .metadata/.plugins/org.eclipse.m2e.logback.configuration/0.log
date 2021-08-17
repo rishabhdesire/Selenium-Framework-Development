@@ -552,3 +552,369 @@ org.eclipse.core.runtime.CoreException: Launch configuration ValidateCourseTitle
 2021-08-06 10:41:41,190 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-08-06 10:41:41,191 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
 2021-08-09 09:59:56,122 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-10 16:27:31,392 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 16:27:31,508 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-08-10 16:27:31,599 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 16:27:31,599 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:31:34,699 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:31:34,705 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:31:34,708 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:31:34,709 [Worker-46: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:32:21,165 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:32:21,166 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:32:21,168 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:32:21,168 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:35:41,548 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:35:41,549 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:35:41,551 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:35:41,552 [Worker-47: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:41:39,021 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:41:39,021 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:41:39,023 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:41:39,023 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:42:46,012 [Worker-56: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:42:46,013 [Worker-56: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:42:46,015 [Worker-56: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:42:46,015 [Worker-56: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:43:13,498 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:43:13,498 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:43:13,503 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:43:13,504 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:44:55,229 [Worker-50: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:44:55,230 [Worker-50: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:44:55,233 [Worker-50: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:44:55,235 [Worker-50: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-10 21:48:23,911 [Worker-54: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:48:23,912 [Worker-54: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-10 21:48:23,914 [Worker-54: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-10 21:48:23,914 [Worker-54: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:09:33,248 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:09:33,250 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:09:33,251 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:09:33,251 [Worker-55: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:10:13,972 [Worker-78: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:10:13,973 [Worker-78: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:10:13,974 [Worker-78: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:10:13,974 [Worker-78: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:21:59,223 [Worker-83: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:21:59,226 [Worker-83: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:21:59,230 [Worker-83: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:21:59,230 [Worker-83: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:22:43,479 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:22:43,480 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:22:43,481 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:22:43,481 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:22:56,831 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:22:56,831 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:22:56,832 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:22:56,832 [Worker-85: Launching ProgramPractice] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:24:31,045 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:24:31,045 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:24:31,046 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:24:31,047 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:24:44,349 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:24:44,351 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:24:44,353 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:24:44,353 [Worker-83: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:25:02,839 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:25:02,839 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:25:02,841 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:25:02,842 [Worker-88: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:25:57,517 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:25:57,517 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:25:57,518 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:25:57,518 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:26:27,990 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:26:27,990 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:26:27,991 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:26:27,991 [Worker-85: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 09:29:15,647 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:29:15,648 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 09:29:15,649 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 09:29:15,649 [Worker-90: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:08:27,957 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:08:27,958 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:08:27,963 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:08:27,964 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:12:04,129 [Worker-90: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:12:04,129 [Worker-90: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:12:04,131 [Worker-90: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:12:04,132 [Worker-90: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:14:58,387 [Worker-95: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:14:58,387 [Worker-95: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:14:58,390 [Worker-95: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:14:58,391 [Worker-95: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:21:07,850 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:21:07,851 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:21:07,855 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:21:07,856 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:21:38,502 [Worker-102: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:21:38,502 [Worker-102: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:21:38,503 [Worker-102: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:21:38,504 [Worker-102: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:24:31,909 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:24:31,910 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:24:31,912 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:24:31,912 [Worker-101: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:28:02,093 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:28:02,097 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:28:02,100 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:28:02,100 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:28:59,596 [Worker-108: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:28:59,597 [Worker-108: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:28:59,601 [Worker-108: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:28:59,601 [Worker-108: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:29:39,024 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:29:39,024 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:29:39,026 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:29:39,028 [Worker-109: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:30:36,771 [Worker-112: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:30:36,772 [Worker-112: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:30:36,772 [Worker-112: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:30:36,773 [Worker-112: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:31:04,909 [Worker-111: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:31:04,910 [Worker-111: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:31:04,912 [Worker-111: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:31:04,912 [Worker-111: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:31:53,310 [Worker-106: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:31:53,311 [Worker-106: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:31:53,313 [Worker-106: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:31:53,313 [Worker-106: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:39:15,101 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-11 10:46:51,773 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:46:51,781 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-08-11 10:46:51,822 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:46:51,822 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:47:18,806 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:47:18,809 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:47:18,812 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:47:18,812 [Worker-21: Launching Pyramid] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:47:41,129 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:47:41,130 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:47:41,133 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:47:41,134 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:48:28,915 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:48:28,916 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:48:28,918 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:48:28,919 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:53:57,870 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:53:57,871 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:53:57,874 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:53:57,874 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:54:54,274 [Worker-25: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:54:54,277 [Worker-25: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:54:54,281 [Worker-25: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:54:54,281 [Worker-25: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:56:11,763 [Worker-26: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:56:11,764 [Worker-26: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:56:11,766 [Worker-26: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:56:11,767 [Worker-26: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-11 10:56:57,789 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:56:57,789 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-11 10:56:57,792 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-11 10:56:57,792 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-12 09:50:43,218 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 09:50:43,290 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-12 09:50:43,291 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-12 09:50:43,291 [Worker-37: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-12 11:18:22,085 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-08-14 11:00:14,457 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:00:14,557 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2021-08-14 11:00:14,806 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:00:14,806 [Worker-24: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:05:32,071 [Worker-31: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:05:32,073 [Worker-31: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:05:32,079 [Worker-31: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:05:32,079 [Worker-31: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:06:32,107 [Worker-33: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:06:32,109 [Worker-33: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:06:32,110 [Worker-33: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:06:32,110 [Worker-33: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:15:58,252 [Worker-34: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:15:58,253 [Worker-34: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:15:58,254 [Worker-34: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:15:58,254 [Worker-34: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:17:55,003 [Worker-37: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:17:55,004 [Worker-37: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:17:55,006 [Worker-37: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:17:55,007 [Worker-37: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:18:12,373 [Worker-36: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:18:12,374 [Worker-36: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:18:12,376 [Worker-36: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:18:12,377 [Worker-36: Launching Fibanocci] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:39:28,166 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:39:28,166 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:39:28,168 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:39:28,168 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:39:50,844 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:39:50,846 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:39:50,850 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:39:50,851 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:46:00,705 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:46:00,706 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:46:00,708 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:46:00,708 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:46:47,883 [Worker-49: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:46:47,885 [Worker-49: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:46:47,888 [Worker-49: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:46:47,889 [Worker-49: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 11:47:09,185 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:47:09,185 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 11:47:09,187 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 11:47:09,188 [Worker-45: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:05:42,105 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:05:42,106 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:05:42,108 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:05:42,108 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:08:05,544 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:08:05,544 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:08:05,547 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:08:05,547 [Worker-53: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:11:38,203 [Worker-55: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:11:38,203 [Worker-55: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:11:38,205 [Worker-55: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:11:38,206 [Worker-55: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:14:14,885 [Worker-58: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:14:14,886 [Worker-58: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:14:14,887 [Worker-58: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:14:14,887 [Worker-58: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:16:44,021 [Worker-60: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:16:44,022 [Worker-60: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:16:44,024 [Worker-60: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:16:44,024 [Worker-60: Launching CheckPrimeNum] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:19:42,094 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:19:42,095 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:19:42,099 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:19:42,100 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:40:40,111 [Worker-65: Launching PrintMinMaxNumMultiDimension] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:40:40,111 [Worker-65: Launching PrintMinMaxNumMultiDimension] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:40:40,113 [Worker-65: Launching PrintMinMaxNumMultiDimension] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:40:40,113 [Worker-65: Launching PrintMinMaxNumMultiDimension] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:47:19,497 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:47:19,497 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:47:19,498 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:47:19,499 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:54:00,247 [Worker-65: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:54:00,248 [Worker-65: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:54:00,249 [Worker-65: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:54:00,249 [Worker-65: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:56:24,388 [Worker-74: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:56:24,389 [Worker-74: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:56:24,391 [Worker-74: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:56:24,392 [Worker-74: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 12:58:35,328 [Worker-69: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:58:35,329 [Worker-69: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 12:58:35,329 [Worker-69: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 12:58:35,329 [Worker-69: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 13:00:33,809 [Worker-76: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:00:33,809 [Worker-76: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 13:00:33,811 [Worker-76: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:00:33,811 [Worker-76: Launching ReverseStringPalindromeVerification] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 13:04:38,124 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:04:38,125 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 13:04:38,127 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:04:38,127 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 13:06:52,011 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:06:52,012 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 13:06:52,013 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:06:52,014 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 13:08:56,093 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:08:56,094 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 13:08:56,096 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 13:08:56,097 [Worker-86: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:36:35,950 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:36:36,076 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:36:36,110 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:36:36,111 [Worker-91: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:52:35,186 [Worker-90: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:52:35,187 [Worker-90: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:52:35,189 [Worker-90: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:52:35,189 [Worker-90: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:53:06,526 [Worker-99: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:53:06,527 [Worker-99: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:53:06,527 [Worker-99: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:53:06,528 [Worker-99: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:53:39,841 [Worker-94: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:53:39,842 [Worker-94: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:53:39,842 [Worker-94: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:53:39,843 [Worker-94: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:56:09,816 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:56:09,816 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:56:09,817 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:56:09,817 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:56:29,228 [Worker-103: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:56:29,229 [Worker-103: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:56:29,230 [Worker-103: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:56:29,230 [Worker-103: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 19:57:58,131 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:57:58,131 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 19:57:58,132 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 19:57:58,133 [Worker-98: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:04:43,055 [Worker-105: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:04:43,056 [Worker-105: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:04:43,057 [Worker-105: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:04:43,057 [Worker-105: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:05:54,447 [Worker-113: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:05:54,447 [Worker-113: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:05:54,448 [Worker-113: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:05:54,448 [Worker-113: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:08:53,406 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:08:53,406 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:08:53,407 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:08:53,407 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:15:08,292 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:15:08,294 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:15:08,296 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:15:08,297 [Worker-107: Launching UniqueNumInArray] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:25:56,357 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:25:56,357 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:25:56,358 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:25:56,358 [Worker-125: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:43:54,716 [Worker-124: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:43:54,716 [Worker-124: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:43:54,717 [Worker-124: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:43:54,718 [Worker-124: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:44:22,567 [Worker-130: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:44:22,567 [Worker-130: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:44:22,568 [Worker-130: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:44:22,569 [Worker-130: Launching CountCharInString] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:50:50,322 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:50:50,323 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:50:50,327 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:50:50,329 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:53:27,037 [Worker-132: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:53:27,038 [Worker-132: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:53:27,039 [Worker-132: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:53:27,040 [Worker-132: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 20:54:19,392 [Worker-135: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:54:19,392 [Worker-135: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 20:54:19,455 [Worker-135: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 20:54:19,455 [Worker-135: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:25:19,933 [Worker-140: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:25:19,933 [Worker-140: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:25:19,934 [Worker-140: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:25:19,934 [Worker-140: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:25:55,994 [Worker-137: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:25:55,995 [Worker-137: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:25:55,996 [Worker-137: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:25:55,996 [Worker-137: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:26:38,616 [Worker-139: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:26:38,616 [Worker-139: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:26:38,617 [Worker-139: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:26:38,618 [Worker-139: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:37:54,441 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:37:54,441 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:37:54,442 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:37:54,442 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:39:05,852 [Worker-148: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:39:05,852 [Worker-148: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:39:05,853 [Worker-148: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:39:05,853 [Worker-148: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:40:22,514 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:40:22,514 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:40:22,515 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:40:22,515 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
+2021-08-14 21:41:54,767 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:41:54,767 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-08-14 21:41:54,768 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-08-14 21:41:54,768 [Worker-149: Launching ReverseNumber] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Learning\GitHubRepo\E2EProject\src\test\resources
